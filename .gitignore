@@ -1,0 +1,9 @@
+# Intellij
+.idea/
+/ignore/
+*.iml
+*.iws
+*.txt
+*.xls
+*.ai
+.DS_Store
