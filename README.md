@@ -8,7 +8,7 @@ The index.html file contains a story viewer, implemented as an iframe, that impo
 
 e.g.
 
-<iframe src="https://www.britainsdna.com/mydna/stories/view/5146fc72e4b037228546e7f1"></iframe>
+<iframe src="https://www.britainsdna.com/mydna/stories/view/51efc0d376e0414a2000004f"></iframe>
 ```
 
 There is a test Haplogroup id at the end of the url and you would replace this with the Haplogroup id for the customer result.
